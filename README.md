@@ -1,1 +1,1 @@
-[!line chart](./images/Screenshot%20(227).png)
+[line chart](./images/Screenshot%20(227).png)
