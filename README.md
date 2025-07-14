@@ -77,7 +77,7 @@ This section presents the visualizations created to answer specific business que
 * **Key Finding/Insight:**
     * The map visualization effectively shows that while sales are globally distributed, there are clear clusters of high unit sales in European countries (excluding the UK), with notable activity in countries like Netherlands, Germany, and France. This indicates a strong market presence in these regions.
 * **Visual:**
-    ![Quantity by Country Map Chart](./images/Screenshot%20(254).jpg)
+    ![Quantity by Country Map Chart](./images/Screenshot%20(254).png)
     *This map chart visually represents the total units sold per country, excluding the United Kingdom, to highlight global sales distribution.*
 
 ## 6. Recommendations
