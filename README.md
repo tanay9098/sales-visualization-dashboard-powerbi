@@ -4,7 +4,7 @@
 
 This project presents a comprehensive data analysis of an online retail dataset. The primary objective of this project is to extract meaningful insights into sales performance, customer behavior, and geographical distribution to inform business strategies. Specifically, it aims to answer key business questions such as revenue trends over time, top-performing countries and customers, and the geographical spread of sales units, providing actionable data for decision-makers.
 
-## 2. Data Source and Preparation
+## 2. Data Source
 
 The data for this project was obtained from [https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset]. The dataset contains 541910 rows and 8 columns including InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 
