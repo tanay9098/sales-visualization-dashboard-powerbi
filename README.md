@@ -8,7 +8,7 @@ This project presents a comprehensive data analysis of an online retail dataset.
 
 The data for this project was obtained from [https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset]. The dataset contains 541910 rows and 8 columns including InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 
-## 3. Data Cleaning and Transformation:**
+## 3. Data Cleaning and Transformation:
 The raw data underwent several crucial cleaning and transformation steps to ensure accuracy, consistency, and suitability for analysis. This included:
 * **Calculating Revenue:** A 'Revenue' field was added by multiplying 'Quantity' by 'Unit Price'
 * **Removing negative values:** Negative values were addressed  in 'Quantity' and 'Unit Price' to provide accurate analysis to decision-makers 
@@ -23,8 +23,8 @@ This section presents the visualizations created to answer specific business que
 
 ### Question 1: What is the trend of revenue over time?
 
-* [cite_start]**Objective:** To visualize the revenue trend to understand seasonality or significant changes.
-* [cite_start]**Visualization Type:** Line Chart
+* **Objective:** To visualize the revenue trend to understand seasonality or significant changes.
+* **Visualization Type:** Line Chart
 * **Chart Details:**
     * X-axis: Invoice Date
     * Y-axis: Revenue (Quantity * Unit Price) 
